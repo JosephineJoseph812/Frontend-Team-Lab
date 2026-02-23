@@ -1,0 +1,12 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
